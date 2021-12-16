@@ -39,4 +39,4 @@ if name == "":
   print("Question: " + question)
 else:
   print(name + "asks: " + question)
-print("Magic 8-ball's answer: " + answer)
+print("Magic 11-ball's answer: " + answer)
