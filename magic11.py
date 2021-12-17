@@ -36,7 +36,7 @@ if question == "":
   answer = "You must ask a question to have your fortune told."
 
 if name == "":
-  print("Question: " + question)
+  print("Question: " + answer)
 else:
   print(name + "asks: " + question)
 print("Magic 11-ball's answer: " + answer)
